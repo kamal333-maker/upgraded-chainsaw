@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Beagle Blog</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Section 1: Top Section -->
+  <section class="top-section">
+    <h1>The Beagle Blog</h1>
+    <p>
+      The <b>Beagle</b> is a breed of small hound that is similar in appearance to the larger foxhound. 
+      The <i>Beagle</i> was developed primarily for hunting hare, known as beagling. 
+      Possessing a great sense of smell and superior tracking instinct, 
+      the Beagle is employed as a detection dog for prohibited agricultural imports and foodstuffs in quarantine around the world. 
+      It is a popular pet due to its size, good temper, and lack of inherited health problems.
+    </p>
+    <a href="https://en.wikipedia.org/wiki/Beagle" class="read-more" target="_blank">Read More</a>
+  </section>
+
+  <!-- Section 2: Image Section -->
+  <section class="image-section">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg" alt="Beagle Dog">
+    
+    <!-- More Images link (placed below the image) -->
+    <div class="image-link">
+      <a href="https://www.google.com/search?q=beagle&rlz=1C5CHFA_enUS944US945&sxsrf=ALiCzsYi_xLzuX5-mgRt-U2UMiiEwhaCTA:1672839794160&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiat8ntha78AhVnDbcAHX7UCYYQ_AUoAXoECAEQAw&biw=1629&bih=894&dpr=2.2" class="more-images" target="_blank">
+        More Images
+      </a>
+    </div>
+  </section>
+
+  <!-- Section 3: Trivia Section -->
+  <section class="trivia-section">
+    <h2>Trivia</h2>
+    <ol>
+      <li>The Beagle’s <b>sense of smell</b> is one of the strongest among dog breeds.</li>
+      <li>They were originally bred for <i>hunting small game</i> like rabbits.</li>
+      <li>Beagles have a distinct <b>howl-like bark</b> called a “bay.”</li>
+      <li>The popular cartoon dog <i>Snoopy</i> is a Beagle.</li>
+      <li>Beagles are known for being <b>friendly</b> and <b>curious</b> companions.</li>
+    </ol>
+  </section>
+
+</body>
+</html>
